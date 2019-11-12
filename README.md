@@ -1,4 +1,4 @@
-# Zomato-SQL-Mysql-Queries
+# Zomato-SQL/Mysql-Queries
 
 Data Analyst Test:
 
